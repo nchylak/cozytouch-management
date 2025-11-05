@@ -1,0 +1,4 @@
+pyoverkiz
+python-dotenv
+pyairbnb
+pandas

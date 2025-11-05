@@ -1,0 +1,4 @@
+# Useful Properties
+`core:OperatingModeState`: 'auto' pour auto et 'basic' pour basic
+`core:TargetTemperatureState`: Température confort en mode auto et température voulue en mode basic
+`io:SetpointLoweringTemperatureInProgModeState`: Température eco en mode confort
